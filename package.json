@@ -11,7 +11,8 @@
     "node-fetch": "^2.6.1"
   },
   "devDependencies": {
-    "nodemon": "^2.0.6"
+    "nodemon": "^2.0.6",
+    "serverless": "^2.3.0"
   },
   "keywords": [
     "API",
