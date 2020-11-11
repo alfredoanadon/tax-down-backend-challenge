@@ -5,6 +5,8 @@
 Consistia en desarrollar una API con Node.js y serverless como framework en el que se realizara una consulta
 a una URL dada.
 
+He realizado esta aplicación usando el puerto 3001 de mi localhost.
+
 Esta API tiene 3 metodos GET. 
 
 -El 1º coge los datos directamente del JSON.
