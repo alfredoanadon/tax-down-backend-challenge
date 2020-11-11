@@ -7,7 +7,7 @@ a una URL dada.
 
 Esta API tiene 3 metodos GET. 
 
--El primero coge los datos directamente del JSON.
+-El 1º coge los datos directamente del JSON.
 
 -El 2º coge los datos de un archivo en raiz
 
